@@ -18,6 +18,7 @@ Monte Carlo campaign:
 - 20 independent runs
 - Statistical performance evaluation
 
+![Texto alternativo da imagem](norad.jpg)
 ---
 
 ## Results
